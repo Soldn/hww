@@ -1,0 +1,10 @@
+name: SoldinHWW
+main: me.soldin.hww.SoldinHWW
+version: 1.0
+api-version: 1.19
+author: Soldin.jar
+description: Плагин для праздничных ивентов. Показывает текст «Бу!» и «Сладость или радость» с настраиваемыми цветами и временем.
+commands:
+  soldinhww:
+    description: Основная команда SoldinHWW
+    usage: /soldinhww reload
